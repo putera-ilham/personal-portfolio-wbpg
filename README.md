@@ -36,7 +36,8 @@
 <h3 align="center">Personal Portfolio Webpage</h3>
 
   <p align="center">
-    This project is my first hands on a HTML & CSS project where I created my first draft of a personal portfolio webpage with the use of HTML & CSS.
+    My first take on the use of HTML & CSS by creating my personal portfolio webpage.
+    <br />
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -84,7 +85,8 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+This project is my first hands on a HTML & CSS project where I created my first draft of a personal portfolio webpage with the use of HTML & CSS.
+ `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +94,8 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 ### Built With
 
-* 
+* HTML
+* CSS
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
