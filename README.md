@@ -125,7 +125,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Download pycharm and install its prerequisites.
+1. Download pycharm and install its default prerequisites.
 2. Download all the files.
    ```sh
    git clone https://github.com/putera-ilham/personal-portfolio-wbpg.git
