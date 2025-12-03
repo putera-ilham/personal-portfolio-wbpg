@@ -39,14 +39,14 @@
     My first take on the use of HTML & CSS by creating my personal portfolio webpage.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+   <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <!-- <a href="https://github.com/github_username/repo_name">View Demo</a>-->
+    <!-- &middot; -->
+     <!-- <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a> -->
+    <!-- &middot; -->
+     <!-- <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a> -->
   </p>
 </div>
 
@@ -86,7 +86,8 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 This project is my first hands on a HTML & CSS project where I created my first draft of a personal portfolio webpage with the use of HTML & CSS.
- `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+ `putera-ilham`, `personal-portfolio-wbpg`.
+ <!-- `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,25 +113,24 @@ This project is my first hands on a HTML & CSS project where I created my first 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To run the project, follow these simple steps below.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
+* Pycharm
+ <!-- ```sh
   npm install npm@latest -g
-  ```
+  ```-->
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Download pycharm and install its prerequisites.
+2. Download all the files.
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/putera-ilham/personal-portfolio-wbpg.git
    ```
-3. Install NPM packages
+<!--3. Install NPM packages
    ```sh
    npm install
    ```
@@ -142,7 +142,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
-   ```
+   ```-->
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,7 +187,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* Dr. Angela Yu, Lead instructor @ London App Brewery
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
